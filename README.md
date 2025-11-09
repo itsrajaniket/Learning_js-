@@ -1,4 +1,3 @@
-# LETS-TEST-YOUR-GRADE
-GRADE BASED OF STUDENT MARKS .
-<H1>
-// LETS TEST YOUR GRADE
+I’m systematically learning JavaScript and 
+committing each step to this repository 
+as a record of my progress.
