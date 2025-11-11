@@ -67,10 +67,13 @@
 
 // practice
 let companies = [ "bloomberg", "microsoft", "uber", "google", "IBM", "Netflix"]
+//remove first 
 //companies.shift();
 //console.log(companies) ;
+//ramove uber and add ola in its place
 //companies.splice(2,1, "Ola")
 //console.log(companies) ;
-companies.push("Amazon");
-console.log(companies) ;
-console.log(companies[2])
+// add amazon in last
+// companies.push("Amazon");
+// console.log(companies) ;
+// console.log(companies[2])

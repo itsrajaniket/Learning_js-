@@ -23,6 +23,8 @@
 //     if(console.log("u guess the number right")
     
 
+// Game of number guess
+ 
 
         
 const number=25;

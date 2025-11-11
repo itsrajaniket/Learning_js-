@@ -1,0 +1,18 @@
+h1{
+    color :rgb(219, 47, 90);
+    font:italic;
+    background-color: aquamarine;
+}
+h2 {
+    color :rgb(26, 107, 229);
+    font:message-box;
+    background-color: aqua;
+  
+}
+body { 
+    background-color: rgb(200, 212, 91);
+}
+button{
+    background-color: blueviolet;
+    color: rgb(31, 209, 19);
+}
